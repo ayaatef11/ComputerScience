@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\2-back-end\\4-productManagement-visual-basic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|f:\\2-back-end\\4-productmanagement-visual-basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|f:\\2-back-end\\4-productmanagement-visual-basic\\bl\\cls_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|solutionrelative:bl\\cls_customers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|f:\\2-back-end\\4-productmanagement-visual-basic\\bl\\cls_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|solutionrelative:bl\\cls_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|f:\\2-back-end\\4-productmanagement-visual-basic\\dal\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|solutionrelative:dal\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|f:\\2-back-end\\4-productmanagement-visual-basic\\bl\\clsproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|solutionrelative:bl\\clsproducts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|f:\\2-back-end\\4-productmanagement-visual-basic\\bl\\cls_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|solutionrelative:bl\\cls_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|f:\\2-back-end\\4-productmanagement-visual-basic\\pl\\frm_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|solutionrelative:pl\\frm_config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|F:\\2-back-end\\4-productManagement-visual-basic\\pl\\frm_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|solutionrelative:pl\\frm_categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|F:\\2-back-end\\4-productManagement-visual-basic\\pl\\frm_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|solutionrelative:pl\\frm_backup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|F:\\2-back-end\\4-productManagement-visual-basic\\pl\\frm_add_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1EB071A2-3E0F-4130-B8E9-38F5CAF11561}|productManagement.csproj|solutionrelative:pl\\frm_add_products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\2-back-end\\4-productManagement-visual-basic\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "F:\\2-back-end\\4-productManagement-visual-basic\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:42:05.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dataAccessLayer.cs",
+              "DocumentMoniker": "F:\\2-back-end\\4-productManagement-visual-basic\\DAL\\dataAccessLayer.cs",
+              "RelativeDocumentMoniker": "DAL\\dataAccessLayer.cs",
+              "ToolTip": "F:\\2-back-end\\4-productManagement-visual-basic\\DAL\\dataAccessLayer.cs",
+              "RelativeToolTip": "DAL\\dataAccessLayer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:39:06.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsProducts.cs",
+              "DocumentMoniker": "F:\\2-back-end\\4-productManagement-visual-basic\\BL\\clsProducts.cs",
+              "RelativeDocumentMoniker": "BL\\clsProducts.cs",
+              "ToolTip": "F:\\2-back-end\\4-productManagement-visual-basic\\BL\\clsProducts.cs",
+              "RelativeToolTip": "BL\\clsProducts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:39:00.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "cls_orders.cs",
+              "DocumentMoniker": "F:\\2-back-end\\4-productManagement-visual-basic\\BL\\cls_orders.cs",
+              "RelativeDocumentMoniker": "BL\\cls_orders.cs",
+              "ToolTip": "F:\\2-back-end\\4-productManagement-visual-basic\\BL\\cls_orders.cs",
+              "RelativeToolTip": "BL\\cls_orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:38:58.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cls_login.cs",
+              "DocumentMoniker": "F:\\2-back-end\\4-productManagement-visual-basic\\BL\\cls_login.cs",
+              "RelativeDocumentMoniker": "BL\\cls_login.cs",
+              "ToolTip": "F:\\2-back-end\\4-productManagement-visual-basic\\BL\\cls_login.cs",
+              "RelativeToolTip": "BL\\cls_login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:38:55.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cls_customers.cs",
+              "DocumentMoniker": "F:\\2-back-end\\4-productManagement-visual-basic\\BL\\cls_customers.cs",
+              "RelativeDocumentMoniker": "BL\\cls_customers.cs",
+              "ToolTip": "F:\\2-back-end\\4-productManagement-visual-basic\\BL\\cls_customers.cs",
+              "RelativeToolTip": "BL\\cls_customers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:38:50.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frm_config.cs [Design]",
+              "DocumentMoniker": "F:\\2-back-end\\4-productManagement-visual-basic\\PL\\frm_config.cs",
+              "RelativeDocumentMoniker": "PL\\frm_config.cs",
+              "ToolTip": "F:\\2-back-end\\4-productManagement-visual-basic\\PL\\frm_config.cs [Design]",
+              "RelativeToolTip": "PL\\frm_config.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:53:42.778Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frm_categories.cs [Design]",
+              "DocumentMoniker": "F:\\2-back-end\\4-productManagement-visual-basic\\PL\\frm_categories.cs",
+              "RelativeDocumentMoniker": "PL\\frm_categories.cs",
+              "ToolTip": "F:\\2-back-end\\productManagement\\PL\\frm_categories.cs [Design]",
+              "RelativeToolTip": "..\\productManagement\\PL\\frm_categories.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:53:39.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frm_backup.cs [Design]",
+              "DocumentMoniker": "F:\\2-back-end\\4-productManagement-visual-basic\\PL\\frm_backup.cs",
+              "RelativeDocumentMoniker": "PL\\frm_backup.cs",
+              "ToolTip": "F:\\2-back-end\\productManagement\\PL\\frm_backup.cs [Design]",
+              "RelativeToolTip": "..\\productManagement\\PL\\frm_backup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:53:36.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frm_add_products.cs [Design]",
+              "DocumentMoniker": "F:\\2-back-end\\4-productManagement-visual-basic\\PL\\frm_add_products.cs",
+              "RelativeDocumentMoniker": "PL\\frm_add_products.cs",
+              "ToolTip": "F:\\2-back-end\\productManagement\\PL\\frm_add_products.cs [Design]",
+              "RelativeToolTip": "..\\productManagement\\PL\\frm_add_products.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T18:53:23.724Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

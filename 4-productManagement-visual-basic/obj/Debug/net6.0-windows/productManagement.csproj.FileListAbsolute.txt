@@ -1,0 +1,154 @@
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\productManagement.exe
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\productManagement.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.csproj.AssemblyReference.cache
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.FormLogin.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.csproj.GenerateResource.cache
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.AssemblyInfoInputs.cache
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.AssemblyInfo.cs
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.csproj.CoreCompileInputs.cache
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.csproj.CopyComplete
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\refint\productManagement.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.pdb
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_main.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\productManagement.deps.json
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\productManagement.runtimeconfig.json
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\productManagement.pdb
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.genruntimeconfig.cache
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\ref\productManagement.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_add_products.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.Properties.Resources.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_products.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_preview.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_categories.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_customers_.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_orders.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_customer_list.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_products_list.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_backup.resources
+C:\Users\Aya Atef\graphics_projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_restore.resources
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\productManagement.exe
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\productManagement.dll.config
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\productManagement.deps.json
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\productManagement.runtimeconfig.json
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\productManagement.dll
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\productManagement.pdb
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\front-end\graphical_Projects\productManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.csproj.AssemblyReference.cache
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.FormLogin.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_add_products.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_backup.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_categories.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_config.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_customers_.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_customer_list.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_main.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_orders.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_preview.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_products.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_products_list.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_restore.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.Properties.Resources.resources
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.csproj.GenerateResource.cache
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.AssemblyInfoInputs.cache
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.AssemblyInfo.cs
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.csproj.CoreCompileInputs.cache
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productM.5B8BA379.Up2Date
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.dll
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\refint\productManagement.dll
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.pdb
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\productManagement.genruntimeconfig.cache
+F:\front-end\graphical_Projects\productManagement\obj\Debug\net6.0-windows\ref\productManagement.dll
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\productManagement.exe
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\productManagement.dll.config
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\productManagement.deps.json
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\productManagement.runtimeconfig.json
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\productManagement.dll
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\productManagement.pdb
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\2-back-end\WPF\productManagement\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.csproj.AssemblyReference.cache
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.FormLogin.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_add_products.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_backup.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_categories.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_config.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_customers_.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_customer_list.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_main.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_orders.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_preview.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_products.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_products_list.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.PL.frm_restore.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.Properties.Resources.resources
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.csproj.GenerateResource.cache
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.AssemblyInfoInputs.cache
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.AssemblyInfo.cs
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.csproj.CoreCompileInputs.cache
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productM.5B8BA379.Up2Date
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.dll
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\refint\productManagement.dll
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.pdb
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\productManagement.genruntimeconfig.cache
+F:\2-back-end\WPF\productManagement\obj\Debug\net6.0-windows\ref\productManagement.dll
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\productManagement.exe
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\productManagement.dll.config
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\productManagement.deps.json
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\productManagement.runtimeconfig.json
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\productManagement.dll
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\productManagement.pdb
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\Microsoft.ReportViewer.WinForms.dll
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\2-back-end\4-productManagement-visual-basic\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.csproj.AssemblyReference.cache
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.FormLogin.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_add_products.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_backup.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_categories.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_config.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_customers_.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_customer_list.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_main.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_orders.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_preview.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_products.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_products_list.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.PL.frm_restore.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.Properties.Resources.resources
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.csproj.GenerateResource.cache
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.GeneratedMSBuildEditorConfig.editorconfig
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.AssemblyInfoInputs.cache
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.AssemblyInfo.cs
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.csproj.CoreCompileInputs.cache
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productM.5B8BA379.Up2Date
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.dll
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\refint\productManagement.dll
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.pdb
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\productManagement.genruntimeconfig.cache
+F:\2-back-end\4-productManagement-visual-basic\obj\Debug\net6.0-windows\ref\productManagement.dll
